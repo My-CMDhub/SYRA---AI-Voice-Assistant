@@ -284,30 +284,12 @@ rm conversations.txt
 4. Test thoroughly
 5. Submit a pull request
 
-### Code Style
-- Follow PEP 8 standards
-- Add docstrings for new functions
-- Include error handling
-- Test with various voice inputs
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
 
-- **Mistral AI** for providing the language model
-- **Google** for Speech Recognition and TTS APIs
-- **Open-Meteo** for weather data
-- **Python Community** for excellent libraries
-
-## 📞 Support
-
-For issues and questions:
-1. Check the troubleshooting section above
-2. Review existing issues in the repository
-3. Create a new issue with detailed information
-4. Include error messages and system information
 
 ---
 
